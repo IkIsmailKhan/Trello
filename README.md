@@ -26,7 +26,7 @@ Tab 2 -> For jsonserver
 Tab 3 -> For ngrok
 -> npm run tunnel
 
-Copy forwarding url http://ac97c5211e39.ngrok.io from ngrok tab and paste the url in "Frontend/src/api/jsonServer.tsx" file.
+Copy forwarding url http://*ac*********.ngrok.io from ngrok tab and paste the url in "Frontend/src/api/jsonServer.tsx" file.
 
 
 
